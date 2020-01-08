@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=setupx
+Type=Application
+Exec=/home/johnazhang/UImod/setx.sh
+Terminal=false
+Categories=Utility;
